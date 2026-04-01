@@ -1,0 +1,98 @@
+body{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.container{
+    height:100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    color: white;
+    margin-bottom: 20px;
+}
+
+.bulb img{
+    width: 150px;
+    margin-bottom: 20px;
+}
+
+.cat img{
+    width: 120px;
+    margin-bottom: 20px;
+}
+
+.onoff{
+    border:2px solid white;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#status{
+    color: white;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.buttons button{
+    width: 60px;
+    height: 30px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+#on{
+    background-color: green;
+}
+
+#off{
+    background-color: red;
+}
+
+
+/* my code
+*{
+    background-color: black;
+}
+.container{
+    height:100vh;
+    width:100vw;
+    display : flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box,#on,#off{
+    color: white;
+
+} */
+/* .onoff{
+    border:2px solid white;
+     
+    width: 100px;
+    height: 80px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#on {
+    margin: 5px;
+   
+    background-color: grey;
+
+}
+#off{
+    margin: 5px;
+  
+    background-color: rgb(249, 42, 42);
+} */

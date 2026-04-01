@@ -20,18 +20,5 @@ offBtn.onclick = function(){
     offBtn.style.backgroundColor = "red";
 }
 
-// function cngbulb(){
-//     document.getElementById("offbulb").src="Unlitbulb.png";
-//     document.getElementById("cateye").src = "cateyes.png ";
-//     document.getElementById("p").textContent="Switched off";
-//     document.getElementById("on").style.backgroundColor="grey";
-//     document.getElementById("off").style.backgroundColor="red";
-// }
-// function original(){
-//     document.getElementById("offbulb").src="bulbon.png";
-//     document.getElementById("cateye").src = "cat.png ";
-//     document.getElementById("p").textContent="Switched on";
-//     document.getElementById("on").style.backgroundColor="green";
-//     document.getElementById("off").style.backgroundColor="grey";
-
-// }
+ 
+ 
